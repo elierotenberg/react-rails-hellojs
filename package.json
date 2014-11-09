@@ -1,6 +1,6 @@
 {
   "name": "react-rails-hellojs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "React on Rails plugin for adding HelloJS to your project.",
   "main": "dist/index.js",
   "scripts": {
