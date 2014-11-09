@@ -1,21 +1,21 @@
 {
-  "name": "my-starterkit",
-  "version": "0.0.0",
-  "description": "",
+  "name": "react-rails-hellojs",
+  "version": "0.1.0",
+  "description": "React on Rails plugin for adding HelloJS to your project.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elierotenberg/my-starterkit.git"
+    "url": "https://github.com/elierotenberg/react-rails-hellojs.git"
   },
   "author": "Elie Rotenberg <elie@rotenberg.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elierotenberg/my-starterkit/issues"
+    "url": "https://github.com/elierotenberg/react-rails-hellojs/issues"
   },
-  "homepage": "https://github.com/elierotenberg/my-starterkit",
+  "homepage": "https://github.com/elierotenberg/react-rails-hellojs",
   "devDependencies": {
     "del": "^0.1.3",
     "gulp": "^3.8.10",
